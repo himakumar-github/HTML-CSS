@@ -1,0 +1,29 @@
+.sub-button{
+    background-color:rgb(191, 43, 43);
+    color: white;
+    font-weight: 200;
+    height: 40px;
+    width: 125px;
+    border: none;
+    border-radius: 3px;
+    margin-right: 15px;
+    margin-top: 10px;
+}
+.join-button{
+   height: 40px;
+   width: 70px;
+   border-color: blue;
+   color: blue;
+   background-color: white;
+   border-width: 1px;
+   margin-right: 14px;
+}
+.tweet-button{
+height: 40px;
+width: 85px;
+background-color:rgb(10, 165, 226);
+border: none;
+border-radius: 18px;
+color: white;
+font-weight: 1000;
+}
